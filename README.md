@@ -2,6 +2,11 @@
 
 This application consists of a frontend built with React, Material-UI, and TypeScript, a backend using Django, and a MySQL database.
 
+- The platform displays a dashboard with the latest stock values of the symbols on the
+user’s watchlist.
+- The platform is be able to handle multiple users concurrently, each having different
+watchlists.
+
 ### DB setup :
 ```
     create database stock_monitoring_db;
