@@ -7,6 +7,10 @@ user’s watchlist.
 - The platform is be able to handle multiple users concurrently, each having different
 watchlists.
 
+### Demo  
+[Link to youtube](https://youtu.be/QfUiCsIyuBI)
+
+
 ### DB setup :
 ```
     create database stock_monitoring_db;
